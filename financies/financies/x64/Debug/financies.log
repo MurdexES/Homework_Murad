@@ -1,0 +1,51 @@
+﻿  Card_S.cpp
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Expense.h(134,16): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Wallet.h(16,16): error C2065: 'Card': undeclared identifier
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Wallet.h(16,9): error C2923: 'std::vector': 'Card' is not a valid template type argument for parameter '_Ty'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Wallet.h(16,16): message : see declaration of 'Card'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Wallet.h(16,9): error C2976: 'std::vector': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(494,1): message : see declaration of 'std::vector'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Wallet.h(34,9): error C2065: 'Card': undeclared identifier
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Wallet.h(34,2): error C2923: 'std::vector': 'Card' is not a valid template type argument for parameter '_Ty'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Wallet.h(34,9): message : see declaration of 'Card'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Wallet.h(34,2): error C2976: 'std::vector': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(494,1): message : see declaration of 'std::vector'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Wallet.h(18,7): error C2678: binary '=': no operator found which takes a left-hand operand of type 'std::vector' (or there is no acceptable conversion)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(1566,26): message : could be 'std::vector<_Ty,_Alloc> &std::vector<_Ty,_Alloc>::operator =(std::initializer_list<_Elem>)'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(1545,26): message : or       'std::vector<_Ty,_Alloc> &std::vector<_Ty,_Alloc>::operator =(const std::vector<_Ty,_Alloc> &)'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(798,26): message : or       'std::vector<_Ty,_Alloc> &std::vector<_Ty,_Alloc>::operator =(std::vector<_Ty,_Alloc> &&) noexcept(<expr>)'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Wallet.h(18,7): message : while trying to match the argument list '(std::vector, std::vector)'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Wallet.h(18,15): error C2582: 'operator =' function is unavailable in 'std::vector'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Card_S.cpp(50,38): error C2027: use of undefined type 'std::vector'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(494,1): message : see declaration of 'std::vector'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Card_S.cpp(52,7): error C2678: binary '[': no operator found which takes a left-hand operand of type 'std::vector' (or there is no acceptable conversion)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(1955,40): message : could be 'const _Ty &std::vector<_Ty,_Alloc>::operator [](const allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type) noexcept const'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(1945,34): message : or       '_Ty &std::vector<_Ty,_Alloc>::operator [](const allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type) noexcept'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Card_S.cpp(52,7): message : while trying to match the argument list '(std::vector, size_t)'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Card_S.cpp(54,8): error C2678: binary '[': no operator found which takes a left-hand operand of type 'std::vector' (or there is no acceptable conversion)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(1955,40): message : could be 'const _Ty &std::vector<_Ty,_Alloc>::operator [](const allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type) noexcept const'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(1945,34): message : or       '_Ty &std::vector<_Ty,_Alloc>::operator [](const allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type) noexcept'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Card_S.cpp(54,8): message : while trying to match the argument list '(std::vector, size_t)'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Card_S.cpp(58,5): error C2678: binary '[': no operator found which takes a left-hand operand of type 'std::vector' (or there is no acceptable conversion)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(1955,40): message : could be 'const _Ty &std::vector<_Ty,_Alloc>::operator [](const allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type) noexcept const'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(1945,34): message : or       '_Ty &std::vector<_Ty,_Alloc>::operator [](const allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type) noexcept'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Card_S.cpp(58,5): message : while trying to match the argument list '(std::vector, size_t)'
+  financies.cpp
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Card.h(10,1): error C2504: 'Wallet': base class undefined
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Wallet.h(31,11): error C3646: 'expenses_wallet': unknown override specifier
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Wallet.h(31,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Expense.h(134,16): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Master.h(128,24): error C2039: 'expenses_wallet': is not a member of 'Wallet'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Wallet.h(11,7): message : see declaration of 'Wallet'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Master.h(137,24): error C2039: 'expenses_wallet': is not a member of 'Wallet'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Wallet.h(11,7): message : see declaration of 'Wallet'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Master.h(146,24): error C2039: 'expenses_wallet': is not a member of 'Wallet'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Wallet.h(11,7): message : see declaration of 'Wallet'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Master.h(155,24): error C2039: 'expenses_wallet': is not a member of 'Wallet'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Wallet.h(11,7): message : see declaration of 'Wallet'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Master.h(164,24): error C2039: 'expenses_wallet': is not a member of 'Wallet'
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Wallet.h(11,7): message : see declaration of 'Wallet'
+  Wallet_S.cpp
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Expense.h(134,16): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\LEGION PRO\source\repos\OOP\financies\financies\Card.h(10,1): error C2504: 'Wallet': base class undefined
+  Generating Code...
