@@ -1,0 +1,5 @@
+C:\Users\LEGION PRO\source\repos\HW\C#\CSharp_Project\CSharp_Project\obj\Debug\net6.0\CSharp_Project.csproj.AssemblyReference.cache
+C:\Users\LEGION PRO\source\repos\HW\C#\CSharp_Project\CSharp_Project\obj\Debug\net6.0\CSharp_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION PRO\source\repos\HW\C#\CSharp_Project\CSharp_Project\obj\Debug\net6.0\CSharp_Project.AssemblyInfoInputs.cache
+C:\Users\LEGION PRO\source\repos\HW\C#\CSharp_Project\CSharp_Project\obj\Debug\net6.0\CSharp_Project.AssemblyInfo.cs
+C:\Users\LEGION PRO\source\repos\HW\C#\CSharp_Project\CSharp_Project\obj\Debug\net6.0\CSharp_Project.csproj.CoreCompileInputs.cache

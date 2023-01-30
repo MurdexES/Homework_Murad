@@ -1,0 +1,2 @@
+﻿Source.obj : error LNK2005: main already defined in hwww.obj
+C:\Users\LEGION PRO\source\repos\murad\hwww\x64\Debug\hwww.exe : fatal error LNK1169: one or more multiply defined symbols found
